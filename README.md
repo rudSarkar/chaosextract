@@ -2,6 +2,12 @@
 
 This tool can extract sudomains from `https://chaos.projectdiscovery.io/` and save into output file.
 
+#### Install
+
+```bash
+go install github.com/rudSarkar/chaosextract@latest
+```
+
 #### Usage
 
 ```bash
